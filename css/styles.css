@@ -1,0 +1,125 @@
+.fc {
+  background-color: #cbf1f5;
+  height: 680px;
+  padding-top: 35px;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 50px;
+  font-size: 5.625rem;
+  color: #30e3ca;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+  color: #30e3ca;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+
+
+  color: #30e3ca;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+}
+hr{
+  border: dotted #a6e3e9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.uc {
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 15px;
+}
+
+.lowerc {
+  position: absolute;
+  margin-top: 40px;
+}
+
+.mountain {
+  padding-top: 80px;
+}
+
+.pp {
+  height: 200px;
+  width: 200px;
+  border-radius: 70%;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.hrclass {
+  margin-top: 0;
+}
+
+.bottom-container {
+  background-color: #a6e3e9;
+  height: 100px;
+}
+
+.code-image {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.comm{
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin: auto 450px auto auto;
+
+
+}
+.e{
+  padding-bottom: 20px;
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+.i{
+  line-height: 2;
+  width: 30%;
+
+}
+a{
+  font-family: 'PT Serif', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-top: 10px;
+}
+.skills{
+  text-align: left;
+  margin-left: 30%;
+}
+.myskillcenter{
+margin: auto auto 60px 230px;
+
+}
+.birds{
+  width: 350px;
+  height: 350px;
+}
